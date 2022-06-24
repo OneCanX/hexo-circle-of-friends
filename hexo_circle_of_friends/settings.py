@@ -18,7 +18,7 @@
 LINK = [
     {
         "link": "https://onecanx.github.io/link/",  # 友链页地址1，修改为你的友链页地址
-        "theme": "common"
+        "theme": "common2"
     },
     #     {
     #     "link": "https://noionion.top/link/",  # 友链页地址2
